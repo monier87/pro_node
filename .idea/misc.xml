@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/projects/bqn/backoffice" value="1456415984378" />
+        <entry key="$USER_HOME$/projects/bqn/baqueano-core" value="1494966191436" />
+        <entry key="$USER_HOME$/projects/bqn/baqueano/glb" value="7504099371538" />
+        <entry key="$USER_HOME$/projects/bqn/db" value="1504120675112" />
+        <entry key="$USER_HOME$/projects/bqn/glb" value="1467990090398" />
+        <entry key="$USER_HOME$/projects/bqn/hello-scaloid-sbt" value="1452216903000" />
+        <entry key="$USER_HOME$/projects/bqn/hello-scaloid-sbt-master" value="1457028046681" />
+        <entry key="$USER_HOME$/projects/bqn/lector_transm" value="1456945870249" />
+        <entry key="$USER_HOME$/projects/bqn/leerB_transR" value="1457020392365" />
+        <entry key="$USER_HOME$/projects/bqn/spa" value="1468950792322" />
+        <entry key="$USER_HOME$/projects/bqn/tero" value="1457435772178" />
+        <entry key="$USER_HOME$/projects/bqn/teroMobile" value="1457030361304" />
+        <entry key="$USER_HOME$/projects/bqn/teromobile" value="1457956243794" />
+        <entry key="$USER_HOME$/projects/bqn/teros/tero-ws" value="1476126708000" />
+        <entry key="$USER_HOME$/projects/coursera/example" value="1459530774000" />
+        <entry key="$USER_HOME$/projects/coursera/funsets" value="1462330640000" />
+        <entry key="$USER_HOME$/projects/coursera/objsets" value="1462333646000" />
+        <entry key="$USER_HOME$/projects/coursera/recfun" value="1462383530000" />
+        <entry key="$USER_HOME$/projects/test" value="1457015762317" />
+        <entry key="$USER_HOME$/projects/test/mockito" value="1484238243501" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/TecTools/projects/checklist" value="PREVIEW" />
+        <entry key="D:/TecTools/projects/github/play-api-rest-seed" value="PREVIEW" />
+        <entry key="D:/TecTools/projects/github/play-slick-swagger-api-seed" value="PREVIEW" />
+        <entry key="D:/TecTools/projects/github/rodo/play-api-rest-seed" value="PREVIEW" />
+        <entry key="D:/TecTools/projects/middleware" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/akka-cluster-k8s-master" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/data-validation-master" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/play-api-rest-seed-master" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/play-silhouette-seed-master" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/play-slick3-example-master" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/silhouette-play-react-seed-master" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/soap-async-master/play-client" value="PREVIEW" />
+        <entry key="D:/TecTools/seeds/soap-async-master/ws-server" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="C:/Program Files/Java/jdk1.8.0_151" />
+  </component>
+</project>
